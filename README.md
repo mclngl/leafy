@@ -4,7 +4,7 @@
 
 Simple dark theme inspired by CodeRunner 2 and codesandbox.
 
-![here's how it looks like](Screen.png)
+![here's how it looks like](https://raw.githubusercontent.com/mclngl/leafy/master/Screen.png)
 
 Made by [Marcello](https://github.com/mclngl)
 
