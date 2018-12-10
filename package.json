@@ -1,0 +1,22 @@
+{
+  "name": "leafy",
+  "displayName": "leafy",
+  "description": "theme inspired by coderunner and codesandbox",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.29.0"
+  },
+  "publisher": "marcello",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Leafy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CodeRunner 2-color-theme.json"
+      }
+    ]
+  }
+}
